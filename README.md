@@ -12,7 +12,7 @@
 
 **Backend**
 
-![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white) ![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white) ![html](https://img.shields.io/badge/html-E34F26?style=flat&logo=html5&logoColor=white) 
+![NodeJS](https://img.shields.io/badge/-NodeJS-green?logo=nodedotjs&logoColor=white) ![mysql](https://img.shields.io/badge/-mysql-4682B4?logo=mysql&logoColor=white) 
 
 **Other Tools**  
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white) ![github](https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white) ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=Figma&logoColor=white) ![slack](https://img.shields.io/badge/Slack-4A154B?style=flat&logo=Slack&logoColor=white) ![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
