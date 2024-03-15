@@ -1,8 +1,10 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=265&section=header&text=SoJung's%20Profile%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=70&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:8EC5FC,100:E0C3FC&height=265&section=header&text=Welcome%20to%20my%20Profile%20&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlign=50&fontAlignY=40)
 
+## Portpolio 
+[![Gmail badge](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)](https://twisty-chauffeur-5f1.notion.site/d99be634e7fa4c04af0f0ab0127fcaed)
 
 ## DEV's log 
-[![Gmail badge](https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=tistory&logoColor=white)](https://loveofsummer.tistory.com)
+[![badge](https://img.shields.io/badge/Tistory-black?style=for-the-badge&logo=tistory&logoColor=white)](https://loveofsummer.tistory.com)
   
 
 ## Skills
